@@ -1,0 +1,31 @@
+text,tiktoken_count,bert_token_count
+Hello world,2,2
+I love Python programming,4,4
+Generative AI is interesting,5,5
+Machine learning is powerful,4,4
+OpenAI creates AI models,5,5
+"def add(a, b): return a + b",10,12
+print('Hello World'),5,7
+SELECT * FROM users WHERE id=1,8,8
+for i in range(10): print(i),10,12
+git commit -m 'update code',8,9
+😀😀😀😀😀,10,1
+🚀🔥🎉,9,1
+😀 Hello AI 🤖,7,4
+👍👍👍,9,1
+こんにちは,1,5
+こんにちは世界,4,7
+你好世界,5,4
+我喜欢人工智能,10,7
+مرحبا,5,5
+السلام علیکم,9,11
+أنا أتعلم الذكاء الاصطناعي,20,23
+नमस्ते दुनिया,13,9
+मैं Python सीख रहा हूँ,18,9
+1234567890,4,6
+100 + 200 = 300,7,5
+Python 😀 مرحبا,7,7
+AI未来科技,5,5
+hello123@test.com,4,7
+https://www.example.com,5,9
+The quick brown fox jumps over the lazy dog,9,9
