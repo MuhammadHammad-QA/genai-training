@@ -1,0 +1,213 @@
+================================================================================
+LEAVE POLICY COMPARISON
+================================================================================
+
+Document Tokens: 5465
+Summary Tokens: 615
+Token Reduction: 88.75%
+
+================================================================================
+QUESTION 1
+================================================================================
+
+QUESTION:
+What is the purpose of this leave policy?
+
+NAIVE STUFFING ANSWER:
+The purpose of this leave policy is to ensure fairness, transparency, and balance between work and personal life, allowing employees to take time off when needed while minimizing disruptions to the team. It aims to support employees' well-being, provide flexibility, and enable them to return to work refreshed and ready to perform at their best.
+
+SUMMARIZE-THEN-ANSWER:
+The purpose of Emumba's leave policy is to ensure fairness, transparency, and balance between work and personal life, supporting employees' well-being and providing them with the time they need to rest, recharge, and attend to personal matters.
+
+================================================================================
+QUESTION 2
+================================================================================
+
+QUESTION:
+Who is eligible for leave under this policy?
+
+NAIVE STUFFING ANSWER:
+This leave policy applies to all individuals working in a full-time capacity at Emumba.
+
+SUMMARIZE-THEN-ANSWER:
+According to Emumba's leave policy, all individuals working in a full-time capacity at Emumba are eligible for leave under this policy.
+
+================================================================================
+QUESTION 3
+================================================================================
+
+QUESTION:
+How many annual leave days are employees entitled to?
+
+NAIVE STUFFING ANSWER:
+According to the document, employees are entitled to 15 working days of Paid Time Off (PTO) per year for vacation, personal time, or to recharge.
+
+SUMMARIZE-THEN-ANSWER:
+According to Emumba's leave policy, employees are entitled to 15 working days of Paid Time Off (PTO) per year for vacation, personal time, and recharge, in addition to other types of leave such as sick leave, maternity/paternity leave, and special occasion leave. However, if you're referring specifically to annual leave or vacation days, the answer would be 15 working days per year.
+
+================================================================================
+QUESTION 4
+================================================================================
+
+QUESTION:
+What types of leave are available?
+
+NAIVE STUFFING ANSWER:
+According to the Emumba Leave Policy, the following types of leave are available:
+
+1. Paid Time Off (PTO) - 15 working days/year for vacation, personal time, or recharge.
+2. Sick Leave - 5 working days/year for personal illness or caregiving for loved ones.
+3. Maternity Leave - 
+   * 60 working days for normal birth
+   * 70 working days for premature birth or medical complications
+4. Pregnancy Loss - 
+   * 10 working days for recovery
+   * 20 working days for complicated cases
+5. Paternity Leave - 
+   * 5 working days for supporting a newborn and family
+   * 10 working days for premature birth or medical complications
+6. Special Occasion Leave - 10 working days (once every 2 years) for own marriage or religious pilgrimage (Hajj/Umrah).
+
+SUMMARIZE-THEN-ANSWER:
+According to Emumba's leave policy, the company offers the following types of leave:
+
+1. Paid Time Off (PTO)
+2. Sick Leave
+3. Maternity Leave
+4. Paternity Leave
+5. Special Occasion Leave
+
+These leave types are designed to support employees' well-being, provide time for rest and recharge, and attend to personal matters.
+
+================================================================================
+QUESTION 5
+================================================================================
+
+QUESTION:
+What is the process for requesting leave?
+
+NAIVE STUFFING ANSWER:
+The process for requesting leave at Emumba is as follows:
+
+1. Use BambooHR's Time Off Request Module to submit your leave request.
+2. Approval is required from your manager, so please do not go on leave without approval.
+3. If your leave isn't approved within 48 hours, follow up with your manager.
+4. If your leave is still unapproved after 10 working days, contact HR to bring them in the loop.
+5. Always remember to inform your team about your leave.
+
+Additionally, the company encourages employees to plan ahead and communicate openly with their team and manager to ensure a smooth transition of work during their leave.
+
+SUMMARIZE-THEN-ANSWER:
+The process for requesting leave at Emumba involves the following steps:
+
+1. Using BambooHR's Time Off Request Module to submit the leave request.
+2. Obtaining approval from the employee's manager.
+3. Informing the team about the leave.
+4. If the leave is not approved within 48 hours, following up with HR.
+
+================================================================================
+QUESTION 6
+================================================================================
+
+QUESTION:
+How far in advance should leave be requested?
+
+NAIVE STUFFING ANSWER:
+According to the document, the advance notice required for leave requests varies depending on the length of the leave:
+
+* For unplanned or emergency leave (e.g. illness, bereavement), employees should inform their manager as soon as possible, ideally the same day.
+* For short leaves (less than 5 days), employees should notify their manager at least 1 week in advance.
+* For longer leaves (5+ days), employees should secure approval at least 2 months in advance.
+* For extended leaves (10+ days), employees should plan ahead and try to give 6 months' notice to help their team prepare. Mandatory approval is required at least 2 months in advance.
+
+SUMMARIZE-THEN-ANSWER:
+The policy does not specify a particular time frame for requesting leave in advance. However, it does mention that the approval process involves using BambooHR's Time Off Request Module and approval from the employee's manager, with a follow-up with HR if the leave is not approved within 48 hours. It is implied that leave should be requested as soon as possible to allow for a smooth approval process and to inform the team about the leave.
+
+================================================================================
+QUESTION 7
+================================================================================
+
+QUESTION:
+Can unused leave be carried forward?
+
+NAIVE STUFFING ANSWER:
+The document does not explicitly state whether unused leave can be carried forward. It outlines the different types of leave and their entitlements, as well as the guidelines for planning and taking leave, but it does not mention anything about carrying forward unused leave. If you have any further questions or need clarification, I'd be happy to try and help.
+
+SUMMARIZE-THEN-ANSWER:
+The policy does not explicitly state carry-forward rules for all types of leave. However, it does mention that the combined total of Special Occasion Leave and PTO must not exceed 15 days, implying some limitation on carrying forward unused leave.
+
+================================================================================
+QUESTION 8
+================================================================================
+
+QUESTION:
+What happens if an employee takes leave without approval?
+
+NAIVE STUFFING ANSWER:
+According to the document, if an employee takes leave without approval, it can impact not just their work but also their team's ability to plan effectively. The employee should be mindful of how this affects those relying on them, and respecting their commitments means respecting their team's time. 
+
+Additionally, the document states that actions without consequences are just words, and for more details on disciplinary actions and escalation steps related to leave misuse, please refer to the Leave Discipline & Consequences Guideline.
+
+SUMMARIZE-THEN-ANSWER:
+According to Emumba's leave policy, if an employee takes leave without approval, it may be considered as leave misuse. In such cases, disciplinary actions and escalation steps may be taken. It is essential for employees to follow the approval process, which involves using BambooHR's Time Off Request Module, obtaining approval from their manager, and informing their team about the leave. Assuming leave can be taken without approval, even if the manager is away, is not allowed.
+
+================================================================================
+QUESTION 9
+================================================================================
+
+QUESTION:
+Are there any exceptions or special cases mentioned in the policy?
+
+NAIVE STUFFING ANSWER:
+Yes, the policy mentions several exceptions or special cases, including:
+
+1. Maternity Leave (Premature Birth or Medical Complications): 70 working days of paid leave for mothers who experience premature birth or medical complications.
+2. Pregnancy Loss: 10 working days of paid leave for recovery after a miscarriage or pregnancy loss, and up to 20 working days in cases of complicated pregnancy loss.
+3. Paternity Leave (Premature Birth or Medical Complications): 10 working days of paid leave for fathers whose newborns require medical attention or have complications.
+4. Special Occasion Leave: 10 working days of paid leave once every 2 years for employees to attend to special occasions such as their own marriage or a religious pilgrimage (Hajj/Umrah).
+5. Extended Leaves: The policy allows for extended leaves in certain circumstances, such as personal commitments or medical emergencies, but requires approval at least 2 months in advance.
+6. Leave during Notice Period: The policy states that leaves cannot be taken during the notice period, except in urgent cases, which would require discussion with the manager and HR.
+
+These exceptions and special cases are designed to provide flexibility and support to employees in unique circumstances, while also ensuring that the team's work is not disrupted.
+
+SUMMARIZE-THEN-ANSWER:
+Yes, the policy mentions several exceptions and special cases, including:
+
+1. Pregnancy loss: up to 20 working days of paid leave.
+2. Premature birth or medical complications: additional leave days for maternity and paternity leave.
+3. Flexible working hours and remote work options for new parents.
+4. Access to a wellness coach and licensed counselor for emotional support.
+
+Additionally, the policy has restrictions and exceptions such as:
+
+1. Leaves cannot be taken during the notice period.
+2. Leaves require approval from the manager and HR.
+3. Clients must be informed about the leave, especially in augmented teams.
+4. Assuming leave can be taken if the manager is away is not allowed.
+5. Disciplinary actions and escalation steps may be taken for leave misuse.
+
+================================================================================
+QUESTION 10
+================================================================================
+
+QUESTION:
+Summarize the leave policy in 5 bullet points.
+
+NAIVE STUFFING ANSWER:
+Here are 5 bullet points summarizing the leave policy at Emumba:
+
+* **Paid Time Off (PTO)**: 15 working days per year for vacation, personal time, or recharge, to be used responsibly with prior approval from the manager.
+* **Leave Entitlements**: Various types of leave are available, including Sick Leave (5 days), Maternity Leave (60-70 days), Paternity Leave (5-10 days), Pregnancy Loss Leave (10-20 days), and Special Occasion Leave (10 days once every 2 years).
+* **Planning and Approval**: Employees are expected to plan their leave in advance, with at least 1 week's notice for short leaves and 2 months' notice for longer leaves, and obtain approval from their manager before taking time off.
+* **Support and Flexibility**: Emumba offers support and flexibility to employees during their leave, including flexible working hours, remote work options, and access to a wellness coach and counselor, to help them transition back to work smoothly.
+* **Responsibility and Communication**: Employees are expected to communicate their leave plans with their team and manager, and ensure a smooth transition of work during their absence, to maintain a high-performing team and minimize disruptions.
+
+SUMMARIZE-THEN-ANSWER:
+Here are 5 bullet points summarizing Emumba's leave policy:
+
+* Emumba offers various types of leave, including Paid Time Off (PTO), Sick Leave, Maternity Leave, Paternity Leave, and Special Occasion Leave, to support employees' well-being and work-life balance.
+* The leave entitlements are as follows: 15 working days of PTO, 5 working days of Sick Leave, 60-70 working days of Maternity Leave, 5-10 working days of Paternity Leave, and 10 working days of Special Occasion Leave (once every 2 years).
+* The approval process for leave requests involves submitting a request through BambooHR's Time Off Request Module, obtaining approval from the employee's manager, informing the team about the leave, and following up with HR if necessary.
+* The policy provides special conditions for certain situations, such as pregnancy loss, premature birth, or medical complications, and offers flexible working hours and remote work options for new parents.
+* Leaves are subject to certain restrictions and exceptions, including requiring approval from the manager and HR, informing clients about the leave, and not taking leave during the notice period, with disciplinary actions possible for leave misuse.
+

@@ -1,0 +1,127 @@
+
+================================================================================
+PROMPT 1
+================================================================================
+
+{
+  "name": "John Smith"
+}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 2
+================================================================================
+
+{"name": "Sarah Khan", "company": "ABC Technologies", "role": "Software Engineer", "experience_years": 3}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 3
+================================================================================
+
+{"sentiment": "Neutral", "reason": "The product arrived late but quality is excellent"}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 4
+================================================================================
+
+{"user": {"name": "Ali", "location": "Lahore", "skills": ["Python", "Django", "AWS"]}}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 5
+================================================================================
+
+{
+  "total_tasks": 5,
+  "completed_tasks": 3,
+  "remaining_tasks": 2,
+  "completion_percentage": 60.0
+}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 6
+================================================================================
+
+{"employees": [
+  {"name": "John", "role": "developer"},
+  {"name": "Sarah", "role": "designer"},
+  {"name": "Ali", "role": "tester"}
+]}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 7
+================================================================================
+
+{"name": "John", "email": null, "phone": null}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 8
+================================================================================
+
+{
+  "people": [
+    {
+      "name": "Alex",
+      "role": "unknown"
+    },
+    {
+      "name": "Sam",
+      "role": "unknown"
+    }
+  ],
+  "ambiguity": "He"
+}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 9
+================================================================================
+
+{"company": "Company XYZ", "employee": {"name": "Maria", "role": "developer"}}
+
+JSON VALIDATION: PASSED
+
+================================================================================
+PROMPT 10
+================================================================================
+
+{
+  "project": {
+    "name": "AI Chatbot for Customer Support",
+    "goals": [
+      "Develop a functional AI chatbot",
+      "Integrate chatbot with existing customer support system",
+      "Train chatbot to handle common customer inquiries"
+    ],
+    "risks": [
+      {
+        "risk": "Technical difficulties with chatbot integration",
+        "impact": "High"
+      },
+      {
+        "risk": "Insufficient training data for chatbot",
+        "impact": "Medium"
+      },
+      {
+        "risk": "Customer resistance to using chatbot",
+        "impact": "Low"
+      }
+    ],
+    "timeline_weeks": 20
+  }
+}
+
+JSON VALIDATION: PASSED

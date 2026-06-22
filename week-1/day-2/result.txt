@@ -1,0 +1,50 @@
+# Day 2 Report
+
+## Document
+
+Company Leave Policy
+
+## Questions Asked
+
+1. Purpose of policy
+2. Eligibility
+3. Leave entitlement
+4. Types of leave
+5. Request process
+6. Carry-forward rules
+7. Policy violations
+8. Exceptions
+9. Overall summary
+
+
+## Results
+
+Document Tokens: 5465
+
+Summary Tokens: 615
+
+Token Reduction: 88.75%
+
+
+## Prompt Engineering
+
+Created 10 prompts with increasing difficulty:
+- Simple extraction
+- Classification
+- Nested JSON
+- Reasoning
+- Complex structured outputs
+
+
+## Observations
+
+- Summarize-then-answer reduced token usage significantly.
+- JSON schema instructions improved response consistency.
+- Simple prompts produced accurate structured outputs.
+- Complex prompts required clearer instructions and constraints.
+- JSON validation helped verify model output format.
+
+
+## Conclusion
+
+Summarization improves efficiency for large documents, while structured prompts and JSON schemas make LLM responses more reliable and easier to process.
