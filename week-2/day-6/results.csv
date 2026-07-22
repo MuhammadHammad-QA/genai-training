@@ -1,0 +1,26 @@
+question,expected_answer,fixed_hit@1,fixed_hit@3,fixed_hit@5,overlapping_hit@1,overlapping_hit@3,overlapping_hit@5,recursive_hit@1,recursive_hit@3,recursive_hit@5
+What does PDF stand for?,Portable Document Format.,1,1,1,1,1,1,1,1,1
+Who developed the PDF format?,Adobe Systems.,1,1,1,1,1,1,0,1,1
+What is the primary purpose of PDF?,To preserve document formatting across different platforms and devices.,0,0,1,0,1,1,0,1,1
+Which ISO standard defines PDF 2.0?,ISO 32000-2.,1,1,1,1,1,1,1,1,1
+What are the main components of a PDF document?,"Objects, cross-reference table, trailer, and document catalog.",0,1,1,0,1,1,1,1,1
+Why are fonts embedded in a PDF?,To ensure documents display consistently even when the required fonts are not installed.,1,1,1,1,1,1,1,1,1
+What types of objects can a PDF contain?,"Text, images, fonts, annotations, forms, and multimedia.",0,0,0,0,0,0,0,1,1
+What is the role of the cross-reference table?,It stores the locations of PDF objects for fast access.,1,1,1,1,1,1,0,1,1
+What is the purpose of the PDF trailer?,It points to the cross-reference table and the document catalog.,1,1,1,1,1,1,0,0,0
+Why is PDF considered platform independent?,Because it preserves layout and appearance across different operating systems and software.,0,0,0,0,0,0,0,0,0
+What is an indirect object in a PDF?,A reusable object stored separately and referenced by other objects.,0,0,0,0,0,0,0,0,0
+How are images stored inside a PDF?,As image objects with compressed data streams.,0,0,0,0,1,1,0,0,0
+Why are compression algorithms used in PDFs?,To reduce file size while maintaining document quality.,1,1,1,1,1,1,0,1,1
+What is the document catalog?,The root object that defines the structure of the PDF document.,1,1,1,1,1,1,1,1,1
+What is metadata in a PDF?,"Information about the document, such as the author, title, subject, and creation date.",0,0,0,0,0,0,0,0,0
+How does PDF support document security?,"Using encryption, passwords, permissions, and digital signatures.",0,0,0,0,0,0,0,0,0
+What is the purpose of digital signatures in PDF?,To verify document authenticity and ensure document integrity.,0,0,0,1,1,1,0,1,1
+What is the advantage of PDF over editable document formats?,It preserves formatting and prevents unintended modifications.,0,0,0,0,0,0,0,0,0
+How does PDF support hyperlinks?,By storing link annotations that reference internal or external destinations.,0,0,0,0,0,0,0,0,0
+What types of multimedia can be embedded in a PDF?,"Images, audio, video, and interactive elements.",0,0,0,0,0,0,0,0,0
+Why is the cross-reference table important for PDF readers?,It allows readers to locate objects quickly without scanning the entire file.,0,0,0,0,0,0,0,1,1
+Explain the relationship between PDF objects and the document catalog.,The document catalog acts as the root object and references the objects that define the document structure.,1,1,1,1,1,1,1,1,1
+How does PDF maintain consistent formatting across devices?,"By embedding fonts, graphics, and layout information within the document.",1,1,1,1,1,1,1,1,1
+Compare PDF 1.7 and PDF 2.0.,PDF 2.0 is the ISO-standardized version that introduces updated specifications and improved security compared with PDF 1.7.,1,1,1,1,1,1,1,1,1
+Summarize the main purpose and advantages of the PDF format.,"PDF is a platform-independent document format that preserves layout, supports security and multimedia, and enables reliable document exchange.",1,1,1,1,1,1,1,1,1

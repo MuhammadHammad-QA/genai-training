@@ -1,0 +1,26 @@
+question,expected_answer
+What does PDF stand for?,Portable Document Format.
+Who developed the PDF format?,Adobe Systems.
+What is the primary purpose of PDF?,To preserve document formatting across different platforms and devices.
+Which ISO standard defines PDF 2.0?,ISO 32000-2.
+What are the main components of a PDF document?,"Objects, cross-reference table, trailer, and document catalog."
+Why are fonts embedded in a PDF?,To ensure documents display consistently even when the required fonts are not installed.
+What types of objects can a PDF contain?,"Text, images, fonts, annotations, forms, and multimedia."
+What is the role of the cross-reference table?,It stores the locations of PDF objects for fast access.
+What is the purpose of the PDF trailer?,It points to the cross-reference table and the document catalog.
+Why is PDF considered platform independent?,Because it preserves layout and appearance across different operating systems and software.
+What is an indirect object in a PDF?,A reusable object stored separately and referenced by other objects.
+How are images stored inside a PDF?,As image objects with compressed data streams.
+Why are compression algorithms used in PDFs?,To reduce file size while maintaining document quality.
+What is the document catalog?,The root object that defines the structure of the PDF document.
+What is metadata in a PDF?,"Information about the document, such as the author, title, subject, and creation date."
+How does PDF support document security?,"Using encryption, passwords, permissions, and digital signatures."
+What is the purpose of digital signatures in PDF?,To verify document authenticity and ensure document integrity.
+What is the advantage of PDF over editable document formats?,It preserves formatting and prevents unintended modifications.
+How does PDF support hyperlinks?,By storing link annotations that reference internal or external destinations.
+What types of multimedia can be embedded in a PDF?,"Images, audio, video, and interactive elements."
+Why is the cross-reference table important for PDF readers?,It allows readers to locate objects quickly without scanning the entire file.
+Explain the relationship between PDF objects and the document catalog.,The document catalog acts as the root object and references the objects that define the document structure.
+How does PDF maintain consistent formatting across devices?,"By embedding fonts, graphics, and layout information within the document."
+Compare PDF 1.7 and PDF 2.0.,PDF 2.0 is the ISO-standardized version that introduces updated specifications and improved security compared with PDF 1.7.
+Summarize the main purpose and advantages of the PDF format.,"PDF is a platform-independent document format that preserves layout, supports security and multimedia, and enables reliable document exchange."
